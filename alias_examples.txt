@@ -1,0 +1,4 @@
+lias cdD='cd ~/Desktop'
+alias ll='ls -alFtr'
+alias la='ls -A'
+
