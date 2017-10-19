@@ -1,0 +1,18 @@
+commit d7c584b40c3a23a46d04f9df9ed301de9b4d96c2
+Author: Ihssan Matar <ihssantarekmatar@gmail.com>
+Date:   Thu Oct 19 13:32:28 2017 +0300
+
+     alias modifications
+
+commit fc09f72bd48171a3f1ec3364fdb250ad0087c50f
+Author: Ihssan Matar <ihssantarekmatar@gmail.com>
+Date:   Thu Oct 19 13:27:53 2017 +0300
+
+    the new ssh_dsa key
+
+commit 53ce9f10da0eb6545383e7de20b0d6f0ca24138f
+Author: Ihssan Matar <ihssantarekmatar@gmail.com>
+Date:   Thu Oct 19 13:20:56 2017 +0300
+
+    added git to this renamed file
+
